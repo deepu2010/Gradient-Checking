@@ -1,5 +1,5 @@
 # Gradient-Checking
-In this project, I have performed 'Gradient Checking' to check whether the backpropogation is working fine.
+In this project, I have performed 'Gradient Checking' to check whether the backpropogation is working fine. Popular deep learning libraries such as Tensorflow, Keras have a well coded forward propogation and backwar propagation included with them. But when we build our own neural networks, we cant be sure that our neural network works fine all the time. In such cases, we could make use of gradient checking to ensure we are on the right track!
 
 
 1) What is gradient checking and How does gradient checking work?

@@ -13,6 +13,9 @@ Let's look back at the definition of a derivative (or gradient):
 
 If you're not familiar with the " lim𝜀→0 " notation, it's just a way of saying "when  𝜀  is really really small."
 
+
+
+
 We know the following:
 
 ∂𝐽∂𝜃  is what you want to make sure you're computing correctly.
